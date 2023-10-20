@@ -1,17 +1,10 @@
 # Supply-Chain-Shipment-Inventory-Dashboards
-![Shipment Dashboard - Executive Summary](dashboards_shipment1.png)
 
-![Shipment - Ready for Pickup](shipment2.png)
-
-![Shipment - In Transit](shipment3.png)
-
-![Shipment - Completed Shipment](shipment4.png)
-
-# Project Overview
+## Project Overview
 
 This project utilizes supply chain and shipment data sourced from Salesforce. Salesforce serves as the primary repository for our data, containing critical information related to various aspects of our supply chain operations.
 
-## Data Source
+### Data Source
 
 The datasets used in this project are specifically related to our supply chain and shipment operations. The data stored in Salesforce includes details on shipments, logistics, inventory, and other relevant supply chain information. This dataset is crucial for monitoring, analyzing, and optimizing our supply chain processes.
 
@@ -26,3 +19,12 @@ I process and analyze the supply chain and shipment data using Tableau. Tableau 
 2. Data Transformation: Data is cleaned, transformed, and prepared for analysis. This may involve consolidating data from multiple sources or aggregating it for meaningful insights.
 
 3. Data Visualization: Tableau is used to create interactive dashboards and reports based on the processed supply chain and shipment data.
+
+![Shipment Dashboard - Executive Summary](dashboards_shipment1.png)
+
+![Shipment - Ready for Pickup](shipment2.png)
+
+![Shipment - In Transit](shipment3.png)
+
+![Shipment - Completed Shipment](shipment4.png)
+
